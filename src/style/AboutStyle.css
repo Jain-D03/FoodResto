@@ -1,0 +1,13 @@
+.aboutresto{
+  margin:80px;
+  
+}
+.aboutresto h1{
+  text-align: center;
+}
+.aboutresto p{
+  text-align: justify;
+}
+/* @media (max-width:600px){
+  margin-top:0;
+} */
